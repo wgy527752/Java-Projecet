@@ -1,0 +1,3 @@
+Alice	[a,b,c,d,e]
+Charlie	[x,y,z,e]
+David	[us,en,cn]
